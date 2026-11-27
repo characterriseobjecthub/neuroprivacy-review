@@ -10,6 +10,77 @@ Records, reported observations, and research for invited review.
 - Lawful forensic review under counsel; no unauthorized interception/access. Preservation letters/subpoenas: employer, IT/MDM, Feldman ENT/facility, manufacturer, controller/software vendor; preserve 25SEP2026 call/dispatch/commitment records.
 - Pursue recovery only through manufacturer/clinical/legal channels with chain of custody. Request independent technical/medical review and preservation pending review.
 
+UPDATE 27NOV2026 2107 UTC
+
+*continuation of audio-privacy remediating WMD auditory stimulation attenuation/decoupling testing beginning 22NOV2026* 
+
+## Faraday cage and copper shield trials
+
+*Observation record updated 27 November 2026. T1–T5 contain reported observations. T6 describes a proposed configuration and has no recorded outcome.*
+
+### Auditory prominence and intelligibility
+
+The listener used the perceived ambient floor in each condition as the reference. The approximate dB equivalents describe how strongly the speech-like sound stood out from that background. No calibrated ambient sound level or electrical stimulation level was measured.
+
+| Listener rating | Approximate equivalent above the perceived ambient floor | Listening criterion |
+|---|---|---|
+| Barely apparent | +0.5 to +2 dB | Detectable. The listener could focus on an unrelated task for more than one minute without distraction. Speech could remain intelligible when attended to. |
+| Apparent | +3 to +6 dB | Clearly noticeable. This is the listener’s middle reference band. |
+| Very apparent | +7 to +8 dB or more | The sound drew attention unavoidably and distracted the listener from another task. |
+
+Prominence and intelligibility are separate observations. The original heading “CI transmission” records the listener’s hypothesis about artificial auditory nerve stimulation. The ratings alone cannot identify a device, transmission path, or source.
+
+### Trial record
+
+| Trial | Configuration | Reception and listening observations |
+|---|---|---|
+| T1 | Faraday cage | The Wi-Fi control showed 1 of 3 bars. The scan changed from about a dozen strong local networks to a weak control and fewer than five other weak networks. The speech-like sound remained apparent to very apparent. |
+| T2 | Faraday cage | The control remained visible at “0 of 0” but would not connect. One other weak network was visible. The listener reported no discernible change from the apparent to very apparent range. |
+| T3 | Faraday cage | A nearby note reads “same or less reduction WiFi / CI” and queries Bluetooth. Overlapping T2 and T3 labels leave a separate T3 rating unresolved. |
+| T4 | Copper shield and cage | Wi-Fi was described as approximately the same as T2. The listener perceived reduced auditory intensity and marked it for verification. The wording “>> barely” leaves the endpoint unresolved. |
+| T5 | Copper shield and cage | The Wi-Fi entry repeats “T4 ≈ T2.” The listener clarified that the speech-like sound was **barely apparent, approximately +0.5 to +2 dB equivalent, and still detectable and intelligible**. |
+| T6 | Rearranged copper shell within the tabletop-down cage | Proposed equipment comparison. Final configuration, reception results, and the separate open-room listening observation are pending. |
+
+After more than ten minutes of stillness in T5, the listener separately noticed a fine whirring or vibration behind the ear near the base of the skull. It resembled the vibration felt during dental drilling under local anesthesia. The T5 dB rating applies only to the speech-like sound.
+
+### T6 materials and configuration
+
+**Occupancy.** Keep the nested enclosure unoccupied. The proposed sub-ten-minute duration does not establish adequate ventilation or reliable exit through a single taped opening. Only equipment goes inside for the reception comparison. The listener remains in the open room.
+
+| Component | Reported configuration or proposed change |
+|---|---|
+| Copper shell and fabric | Nashua 324A tape and two seamed copper Faraday-fabric panels provide approximately 6 × 12 ft of total coverage around the shell. The shell has one approximately 32 in oval opening with a copper cover flap beneath the fabric. |
+| Table and liner | The rearrangement moves the fabric off the aluminum-wrapped table and places the table tabletop-down. The described assembly includes shower rods between the legs, a 324A-covered sliding support, and a roughly pentagonal liner formed from two lengthwise-split FedEx golf-bag boxes joined with one end closed. The disconnected copper enclosure fits entirely inside the liner. Electrical continuity between layers remains unverified. |
+| Base and containers | Four molded hard-plastic bed risers, approximately 7.5 in high, are positioned at the corners above two overlapping textured 100% rubber utility mats and one full-coverage cardboard layer. The proposal includes two or four waterproof containers for the risers, with secondary containment and a target NaCl concentration well above 1 mol/L. The final container count and actual concentration are pending. |
+| Room and damping | The plan calls for unplugging external room electronics. Proposed damping materials include 12 in perimeter foam wedges, one large heavy vinyl mat placed nonuniformly, and 30–35 lb steel dumbbells. Record which battery-powered devices and reference sources remain active. Keep liquids away from electronics and weights clear of openings. |
+
+Several conditions change together in T6. A difference from T5 could describe the combined configuration. It would not, by itself, distinguish the effects of fabric placement, table orientation, mechanical damping, or room electronics.
+
+### T6 reception checks
+
+For each reference, record the outside baseline, the timestamped equipment reading from the empty enclosure, and the outside recheck. If a device cannot capture a reading during the enclosed condition, mark that field **unobserved**. A reading taken after reopening belongs to the outside recheck.
+
+| Reference | Outside baseline and observations to record |
+|---|---|
+| Lenovo One Tab Wi-Fi | The observer reports a repeatably strong public `xfinitywifi` signal outside and describes the access point as “6G capable” and multi-beamforming. Record network visibility, successful connection, and bars or displayed dBm. Record the actual band or channel if the tablet displays it. The network name alone cannot establish the band or antenna configuration. |
+| Bluetooth headphones | Pair the tablet and headphones outside. With the headphones outside and unworn, use a known locally stored clip to distinguish a saved pairing from active audio playback. Record connection status, audible playback, and dropouts separately. |
+| FM Radio app and USB-C wired headphones | The proposed setup uses the wired in-ear headphones as an antenna. First verify reception of a named local station with internet connections off. Record frequency, recognizable programming, and any local recording. If over-the-air reception cannot be demonstrated with this tablet, app, and headset, mark the FM reference **unverified**. |
+| Verizon iPhone 16 Pro | The observer reports SOS-to-5G status changes and an open-field 5G connection. Record the status icon and ordinary cellular-data connectivity separately, first with Wi-Fi and Bluetooth off and then with their secondary states documented. Record whether Wi-Fi carried any data check. |
+
+### T6 open-room listening observation
+
+After at least five minutes of physical stillness in the open room, record the elapsed time, whether the speech-like sound was detectable, its prominence band, and whether words were understandable.
+
+For a known speech clip, intelligibility can be expressed as **words correctly identified / words presented**. For an experience without a known transcript, record intelligibility descriptively. Record any vibration in a separate field with its location and time first noticed.
+
+| T6 outcome | Result |
+|---|---|
+| Wi-Fi visibility, strength, and connection | Pending |
+| Bluetooth connection, playback, and dropouts | Pending |
+| Verified over-the-air FM reception | Pending |
+| Verizon status and cellular-data connectivity | Pending |
+| Open-room detectability, prominence, and intelligibility | Pending |
+| Separate vibration observation | Pending |
 
 ### REPORTED CW 1407 20NOV2026 | 21:08 UTC coordinated universal time
 
@@ -441,3 +512,123 @@ Independent technical review of controller/software identification and telemetry
 Independent medical review of implant status, stimulation, and removal risk.
 
 Preservation of all records and logs pending review.
+
+---
+
+Sources: Wolfe, Jace, and Erin C. Schafer. Programming Cochlear Implants. 3rd ed. San Diego, CA: Plural Publishing, 2025.
+
+---
+
+---
+
+## Two relevant exploratory research tasks
+
+### Task 1
+
+**AI companion application (or open source framework)**
+
+#### Original prompt · verbatim excerpt
+
+Identify and describe some open source or established applications/frameworks code or other relevant repositories open source or avaialable for two asks unrelated: (1) AI companion app where one can establish genAI (LLM/MM) intelligent/smart personalities that develop along prompted scenarios human on top or in the loop longitudinally with persistence and memory including running historical awareness of adjacent companion personality situational scenario developments/progression; acting along human on top the loop prompted guardrailed scenarios with oversight and/or human in the loop prompted guardrailed scenarios then actively engaging in AI companion persona scenario virtual environment interactions/interactively. Highlight ones as identifiable that might enable a small address book of established personas not exceeding n=150 that could run in sequenced small n&lt;5 personas groups all tied to one central storyline with central character human or artifical (established primary 'companion') in other words in small groups them all reacting to one main character and interacting with them aware, dynamic.
+
+#### Original response
+
+##### 1. AI companions with a recurring cast and one continuing storyline
+
+Talemate is the closest match I found. It lets you keep characters in one shared world, select which ones enter each scene, and carry selected character details and story developments into later scenes. You can play the protagonist, direct an AI protagonist, or let the Director advance a scene under your supervision. The important detail is how history travels: Talemate can turn a scene summary into a shared world entry, giving you an explicit point to review what the next cast should know. Talemate repository · Shared World documentation. 1 2 3
+
+| Application or framework | Best fit for your scenario | How continuity and oversight work |
+|---|---|---|
+| Talemate | Best overall application. Create recurring characters, activate a small cast for each scene, and use the Director to steer events. Optional image generation and text-to-speech support a multimedia experience. | Linked scenes share selected characters, attributes, world entries, and manually entered history. Use Summarize to World Entry to carry an outcome forward. Optional Character Perspectives tracks what each participant perceived. You can advance the Director one turn at a time or give it instructions for a longer sequence. 1 2 4 3 |
+| SillyTavern | Best for direct, turn-by-turn interaction. Keep a collection of character cards, bring a few into a group chat, and select exactly who replies. You can also let them converse automatically. Supports text, images, and voice through connected models. | Add, remove, mute, or reorder characters in an ongoing chat. For separate chats, a shared World Info lorebook can supply recurring facts. Chat summaries help with long conversations. You decide which developments become shared lore. 5 6 7 8 |
+| Google DeepMind Concordia | Best Python framework for scenario rules. A game master decides what happens after a character proposes an action and what each participant observes. Its four-friends example is already the size of scene you describe. | Characters have configurable goals, memory, and action selection. You would build the address book, cross-session storage, and human approval points. A good fit when the rules governing who may act or learn something are central to the experience. 9 |
+| Letta | Best memory backend for a custom companion app. Give each recurring persona its own identity and long-term memory, then give the relevant agents access to a common storyline. | Letta documents private agent memory and shared, Git-backed memory repositories. The current shared-repository feature requires cloud-hosted agents. You supply the scene interface, cast selection, and rules for publishing an event to other characters. 10 11 |
+
+If by virtual environment you mean a walkable map, AI Town is also relevant. Humans and AI characters can occupy the same world, move, and talk. Its documented conversation model has exactly two members, so three- or four-person scenes would require code changes. 12 13
+
+**How I’d configure your roster.** Treat 150 as the ceiling for saved identities and count the protagonist toward the four-person scene limit. In Talemate, I’d start with one shared world, one recurring protagonist, and up to three rotating companions. At the end of each scene, review three things: what publicly happened, whose relationship changed, and who actually learned each fact. Publish the public outcome, update the relevant character details, and keep private disclosures scoped to their audience. This gives a returning companion a reason to behave differently while letting a newcomer react credibly. Talemate documents the controls for this design. I did not find a published 150-persona benchmark. 2 4
+
+A useful acceptance test is to have the protagonist announce a public change and privately make a promise to one companion. Save, restart, and open a later scene with that companion and a newcomer. The setup passes if both respond to the public change, only the returning companion recalls the promise, and the human can pause before the next consequential action.
+
+**&#91;follow-up task prompt and response&#93;**
+
+#### Prompt (AI companion continuation)
+
+Offet markdown integration ready paste ready block here in-chat updated alternative Director Chat prompt hard-rule premise 'Optimizing &lt;main character's> life in the most unusual of ways' amounting to a epic comedy&lt;>tragedy quirky though increasingly dark TV reality series satisfying initial &lt;How I’d configure your roster. Treat 150 as the ceiling for saved identities and count the protagonist toward the four-person scene limit. In Talemate, I’d start with one shared world, one recurring protagonist, and up to three rotating companions. At the end of each scene, review three things: what publicly happened, whose relationship changed, and who actually learned each fact. Publish the public outcome, update the relevant character details, and keep private disclosures scoped to their audience. This gives a returning companion a reason to behave differently while letting a newcomer react credibly. Talemate documents the controls for this design. I did not find a published 150-persona benchmark.> based on foundational initial prompt relevance &lt;...AI companion app where one can establish genAI (LLM/MM) intelligent/smart personalities that develop along prompted scenarios human on top or in the loop longitudinally with persistence and memory including running historical awareness of adjacent companion personality situational scenario developments/progression; acting along human on top the loop prompted guardrailed scenarios with oversight and/or human in the loop prompted guardrailed scenarios then actively engaging in AI companion persona scenario virtual environment interactions/interactively. Highlight ones as identifiable that might enable a small address book of established personas not exceeding n=150 that could run in sequenced small n&lt;5 personas groups all tied to one central storyline with central character human or artifical (established primary 'companion') in other words in small groups them all reacting to one main character and interacting with them aware, dynamic...>
+
+#### Prompt (AI companion continuation)
+
+##### Talemate Director Chat · The Better Life Department
+
+###### Series premise
+
+**Hard rule — “Optimizing Rowan’s life in the most unusual of ways.”** Rowan is the recurring protagonist. If I rename the lead, carry that name through the premise and the single continuing storyline.
+
+Direct a fictional reality-TV series that begins as a warm, peculiar comedy and grows into an epic comedy-tragedy. Each episode starts with something Rowan might genuinely want: a free evening, a second chance, enough quiet to finish a song. Someone devises an extraordinary way to get it. Let the scheme work often enough that a reasonable person would try it again. Let the darkness grow from who pays for the improvement, who comes to depend on it, and what becomes difficult to undo.
+
+Keep the humor alive as the stakes rise. A ridiculous prop from the pilot can become heartbreaking ten episodes later because we remember who made it and why. Earn that moment. Give people room to surprise each other, repair a friendship, or decide that an improvement was worth its price.
+
+###### Cast and continuity
+
+- Use one shared Talemate world and an address book of **at most 150 saved personas, including Rowan**. Open with four saved identities. Activate **Rowan plus at most three companions** per scene. Count anyone who speaks or acts in the scene, including a host or confessional interviewer. The offscreen Director stays outside the cast.
+- Give each recurring companion an unmistakable voice, a private ambition, a particular relationship with Rowan, and something they want from another companion. Let them bargain, disagree, and form friendships in Rowan’s presence. Track what changes through play.
+- Run scenes in sequence. A companion who missed an episode can learn about it through a conversation, a posted notice, an aired clip, or another specific route. Record which version reached them. A confessional belongs to its speaker and the viewing audience until someone in the story actually sees it or hears about it.
+- Keep a compact roster across sessions: identity, current goal, relationship to Rowan, last appearance, and unresolved business. Bring someone back when an earlier promise, debt, success, or misunderstanding gives them a reason to return.
+
+###### Human direction
+
+**Player mode is the default.** I play Rowan. Write the world and the companions, then stop where Rowan has a meaningful choice. Leave Rowan’s words, actions, and inner thoughts to me.
+
+If I say **“Director mode,”** let the AI play Rowan under my supervision. I can authorize one beat or a bounded run of scenes and set the stopping point. Pause before a consequential disclosure, a lasting commitment, or a change that crosses a boundary I set. Honor **pause, revise, skip,** and **resume**. Treat my out-of-character directions as production notes.
+
+At each scene break, give me a short **Director’s cut** for review:
+
+1. **Public outcome** — Draft the exact sentence to carry into the shared world. Publish it after I approve.
+2. **Relationship change** — Name who now feels or behaves differently, toward whom, and the moment that earned the change.
+3. **Who learned what** — Record the fact, its audience, and how it reached them. Keep private disclosures in the relevant character records. If a save or update requires my action, give me the exact text and destination.
+
+###### Pilot cold open · “An Evening to Yourself”
+
+Rowan produces a live music show at the Lantern Room community radio station. Tonight’s optimization is modest: give Rowan one completely free evening.
+
+**Kit**, the reality producer, has hired relief staff for everything on Rowan’s calendar. Kit is conscientious, pleased with the result, and carrying a label maker. **Dev**, the station engineer, volunteered to cover what he understood to be a shift. **Mara**, Rowan’s sister, has come to collect Rowan for the first dinner they have managed to schedule in six months.
+
+Open at the booking desk. Give Kit one small, indisputable triumph before the mistake comes to light. Then Dev peels the label off his assignment envelope and discovers he has been booked to attend dinner as Rowan. Let Mara’s reaction reveal one thing Dev did, while preparing for dinner, that Rowan habitually forgets. Give the joke a moment to land. Let the camera stay for the silence afterward.
+
+Stop when Mara turns to Rowan. I decide what Rowan says.
+
+---
+
+---
+
+---
+
+### Task 2 -- Temporal CT relevant or ML open source repository
+
+#### Original prompt · verbatim excerpt
+
+(cont...) AND separately (2) ML model or related/relevant repositories identiable that would be temporal bone CT scan useful to audiologists or other
+
+#### Original response
+
+##### 2. Temporal-bone CT models and tools for specialist review
+
+For broad anatomy, start with Western University’s ABL Temporal Bone Segmentation extension for 3D Slicer. For a smaller, reproducible first experiment, start with HearSys Comm4CHILD. ABL produces labeled structures a reviewer can inspect against the CT. HearSys supplies a sample CT, reference landmarks, trained weights, and a notebook, so you can evaluate the output before using another scan. 1 2 3
+
+| Tool | Input and output | Evidence and practical fit |
+|---|---|---|
+| ABL Temporal Bone Segmentation · model | A temporal-bone CT volume produces nine anatomical labels, including the malleus, incus, and stapes individually, plus the bony inner ear, facial nerve, and external auditory canal. | Best broad overlay for an otologist, neurotologist, or head-and-neck radiologist to inspect. The operator selects the side, places at least three registration landmarks, and checks the region of interest. The model is packaged for Docker and the extension requires SlicerElastix. 1 4 2 |
+| MONAI middle-ear segmentation | A cropped middle-ear CT volume produces masks of the ossicles as a group and the tympanic cavity. Pretrained V-Net weights and sample data are available. | Good choice for a focused middle-ear anatomy project. The authors reported Dice overlap of 0.897 for the ossicles and 0.918 for the cavity, on a test set of six ears. Those figures measure agreement with reference contours. 5 6 |
+| HearSys Comm4CHILD landmarks | Starting from a manually placed point near the cochlea, the model locates the apex, basal point, and round-window center in 3D CT. | Best first benchmark for cochlear orientation. On test volumes with 0.3-mm spacing, the authors’ five-training-volume model had mean localization errors of 0.70, 1.15, and 0.84 mm, respectively. The repository includes bilateral reference points for its example scan. 3 |
+| 3D Otitis Media | Accepts temporal-bone DICOM images and produces research classifications and heatmaps for chronic otitis media and cholesteatoma assessment. Pretrained weights are provided. | Relevant when the question concerns middle-ear disease. In external testing, the study reported mean AUROC of 0.93 for detecting pathological ears and 0.83 for identifying cholesteatoma in the selected subgroup with inflammatory imaging findings. 7 8 |
+
+**Two additional resources serve distinct needs:**
+
+For audiologists working with a documented cochlear implant, OTOPLAN is the established commercial option on this list. Its postoperative workflow locates electrode contacts on CT and relates their positions to cochlear tonotopy for anatomy-based fitting. That is a more direct audiology application than general anatomical segmentation. 9 10
+
+For an anatomical reference, OpenEar provides eight human temporal-bone datasets combining cone-beam CT and physical micro-slicing. They include labeled cochlear scalae, individual ossicles, tympanic membrane, and facial nerve, with voxel data and 3D meshes available for inspection. 11
+
+For a specific scan, the most useful deliverable to a specialist would be the original DICOM series with a toggleable overlay, the side and voxel spacing recorded, and any disputed contour or landmark identified on the source slices. I verified the documented outputs, repository contents, and reported evaluation results. I did not run inference or assess a patient scan.
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d2d0b3b4-88b3-43e6-ba1e-1867b7f92ed1" />
+
